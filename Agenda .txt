@@ -1,0 +1,7 @@
+Agenda 
+
+1) Set up the github {Repository}
+a) New Environemnt
+b) setup.py
+c) requirements.txt
+
